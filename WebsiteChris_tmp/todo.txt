@@ -1,0 +1,4 @@
+keywords author in index page goed zetten SSO
+padding intro box
+
+bootstrap nodig? uit file header halen
