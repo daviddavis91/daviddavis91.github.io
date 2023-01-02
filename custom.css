@@ -68,3 +68,18 @@ p2 {
   text-align: justify;
   text-justify: inter-word;
 }
+
+/* icon hover effect glow */
+.aglow {
+  color:#fff;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+.aglow a:hover {
+  color: rgb(97, 97, 97);
+  text-shadow: 0 0 5px rgb(208, 208, 208);
+}
+
