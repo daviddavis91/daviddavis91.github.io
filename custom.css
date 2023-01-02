@@ -61,3 +61,10 @@ p2 {
   margin-top: 0em; /*was 6em*/
   margin-bottom: 6em;
 }
+
+/* justify text */
+
+.justp{
+  text-align: justify;
+  text-justify: inter-word;
+}
