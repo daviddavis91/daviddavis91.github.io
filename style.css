@@ -1498,7 +1498,7 @@ blockquote cite {
     display: flex;
     align-items: center;
     position: fixed;
-    top: 20px;
+    top: 10px; /*was eerst 20 aangepast naar 10 voor allignment*/
     right: 20px;
     width: 26px;
     height: 26px;
