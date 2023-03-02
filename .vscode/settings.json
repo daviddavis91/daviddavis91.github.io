@@ -1,3 +1,4 @@
 {
-    "livePreview.defaultPreviewPath": "c:\\Users\\David\\Desktop\\Website_OUD\\david_davis\\index.html"
+  "livePreview.defaultPreviewPath": "c:\\Users\\David\\Desktop\\Website_OUD\\david_davis\\index.html",
+  "editor.defaultFormatter": "vscode.html-language-features"
 }

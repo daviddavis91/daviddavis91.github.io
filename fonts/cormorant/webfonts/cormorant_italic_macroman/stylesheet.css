@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cormorantitalic';
+    src: url('Cormorant-Italic-webfont.eot');
+    src: url('Cormorant-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cormorant-Italic-webfont.woff2') format('woff2'),
+         url('Cormorant-Italic-webfont.woff') format('woff'),
+         url('Cormorant-Italic-webfont.ttf') format('truetype'),
+         url('Cormorant-Italic-webfont.svg#cormorantitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

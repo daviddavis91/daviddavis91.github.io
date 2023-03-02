@@ -101,7 +101,7 @@ CSS STRUCTURE:
 :root {
     /* widths for rows and containers
      */
-    --header-height       : 160px;
+    --header-height       : 160px; 
     --header-height-min   : 80px;
 }
 /* on mobile devices below 600px
@@ -127,10 +127,14 @@ CSS STRUCTURE:
     --dark-text-color    : #2f2f2f;
 }
 /* Fonts */
+div.post-content {
+  font-family: "nanummyeongjoregular", 'sans-serif';
+}
+
 :root {
-    --body-font           : "Manrope", sans-serif;
-    --heading-font        : 'Montserrat', sans-serif;
-    --secondary-font      : "Playfair Display", Georgia, serif;
+    --body-font           : "nanummyeongjoregular", sans-serif;
+    --heading-font        : 'cormorantregular', sans-serif;
+    --secondary-font      : "futura", Georgia, serif;
 }
 
 
@@ -909,7 +913,7 @@ fieldset[disabled] a.btn {
 }
 .section-title {
     font-family: var(--body-font);
-    font-size: 7em;
+    font-size: 3em;
     line-height: 1;
     font-weight: 300;
     color: var(--bg-text-color);
@@ -1350,8 +1354,8 @@ blockquote cite {
 
 .container {
     max-width: 1220px;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 150px; /*15px*/
+    padding-left: 150px; /*15px*/
     margin-right: auto;
     margin-left: auto;
 }
@@ -1454,9 +1458,9 @@ blockquote cite {
 /*----- Logo
 --------------------------------------------------------------*/
 .main-logo a {
-    font-size: 2em;
-    color: #fff;
-    font-weight: 600;
+    font-size: 1.5em;
+    color: #f5f5f5;
+    font-weight: 200;
 }
 .main-logo.dark a {
     color: #000;
@@ -1576,7 +1580,7 @@ blockquote cite {
   text-align: center;
   color: #fff;
   overflow: hidden; 
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'nanummyeongjoregular','Montserrat', sans-serif;
   font-size: 4vh;
   font-weight: 400;
   line-height: 1.5;
@@ -1953,7 +1957,7 @@ body.nav-active .nav__list-item:nth-child(10) {
     overflow: hidden;
     position: relative;
     cursor: pointer;
-    margin-bottom: 40px;
+    margin-bottom: 20px; /*used tb 40px*/
 } 
 #post-grid .post-item:last-child {
     margin-right: 0;
@@ -2105,8 +2109,8 @@ body.nav-active .nav__list-item:nth-child(10) {
 /*-- Footer Bottom --*/
 
 #footer-bottom {
-    background-color: #1a1a1a;
-    color: #8c8c8c;
+    background-color: #F9F9F9;
+    color: #c5c5c5;
 }
 #footer-bottom .socila-links ul {
     display: flex;
@@ -2119,10 +2123,10 @@ body.nav-active .nav__list-item:nth-child(10) {
     margin-right: 0;
 }
 #footer-bottom .socila-links a {
-    color: #9a9a9a;
+    color: #aeaeae;
 }
 #footer-bottom .socila-links a:hover {
-    color: #fff;
+    color: #777777;
 }
 #footer-bottom .copyright a {
     color: #d4d4d4;

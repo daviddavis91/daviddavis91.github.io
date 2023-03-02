@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cormorantsemibold_italic';
+    src: url('Cormorant-SemiBoldItalic-webfont.eot');
+    src: url('Cormorant-SemiBoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cormorant-SemiBoldItalic-webfont.woff2') format('woff2'),
+         url('Cormorant-SemiBoldItalic-webfont.woff') format('woff'),
+         url('Cormorant-SemiBoldItalic-webfont.ttf') format('truetype'),
+         url('Cormorant-SemiBoldItalic-webfont.svg#cormorantsemibold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

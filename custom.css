@@ -17,8 +17,17 @@
     --light-heading-color   : #fff;
     --light-background-color   : #fff;
     --light-text-color   : #afafaf;
-    --bg-text-color      : #f1f1f1;
+    --bg-text-color      : #e6e6e6 /*#f1f1f1*/;
     --dark-text-color    : #2f2f2f;
+}
+
+/* costum header color*/
+h1.light, .h1, h2.light, .h2, h3.light, .h3, h4.light, .h4, h5.light, .h5, h6.light, .h6 {
+  color: #F9F9F9;
+}
+
+body { /*was eerst weg en gewoon wit fff*/
+  background-color: #F9F9F9;
 }
 
 p2 {
@@ -45,6 +54,9 @@ p2 {
   margin-top: 50px; 
 }
 
+.morepad {
+  margin-bottom: 16em;
+}
 
 /* Opacity effect glightbox Opacity #1 */
 .hover11 figure img {
@@ -71,12 +83,12 @@ p2 {
 
 /* icon hover effect glow */
 .aglow {
-  color:#fff;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2s ease-in;
   transition: all 0.2s ease-in;
 }
+
 
 .aglow a:hover {
   color: rgb(97, 97, 97);

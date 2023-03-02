@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cormorant_uprightregular';
+    src: url('CormorantUpright-Regular-webfont.eot');
+    src: url('CormorantUpright-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CormorantUpright-Regular-webfont.woff2') format('woff2'),
+         url('CormorantUpright-Regular-webfont.woff') format('woff'),
+         url('CormorantUpright-Regular-webfont.ttf') format('truetype'),
+         url('CormorantUpright-Regular-webfont.svg#cormorant_uprightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

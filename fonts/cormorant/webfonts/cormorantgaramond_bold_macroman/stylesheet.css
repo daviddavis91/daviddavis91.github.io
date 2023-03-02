@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cormorant_garamondbold';
+    src: url('CormorantGaramond-Bold-webfont.eot');
+    src: url('CormorantGaramond-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CormorantGaramond-Bold-webfont.woff2') format('woff2'),
+         url('CormorantGaramond-Bold-webfont.woff') format('woff'),
+         url('CormorantGaramond-Bold-webfont.ttf') format('truetype'),
+         url('CormorantGaramond-Bold-webfont.svg#cormorant_garamondbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
