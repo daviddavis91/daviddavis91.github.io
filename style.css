@@ -1354,8 +1354,8 @@ blockquote cite {
 
 .container {
     max-width: 1220px;
-    padding-right: 150px; /*15px*/
-    padding-left: 150px; /*15px*/
+    padding-right: 20%; /*15px*/
+    padding-left: 20%; /*15px*/
     margin-right: auto;
     margin-left: auto;
 }
