@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1642a322.css",
-    "main.js": "/static/js/main.a21fd0a1.js",
+    "main.css": "/static/css/main.442a52b4.css",
+    "main.js": "/static/js/main.193f62aa.js",
     "static/js/787.596cdfa9.chunk.js": "/static/js/787.596cdfa9.chunk.js",
     "static/media/albumcover.jpg": "/static/media/albumcover.1db3e316b6668c5e9dd7.jpg",
     "static/media/soleasquare.jpg": "/static/media/soleasquare.b84ceb39f81eff52660a.jpg",
@@ -14,19 +14,22 @@
     "static/media/GildaDisplay-Regular.ttf": "/static/media/GildaDisplay-Regular.b10e88ee4812f0ef315c.ttf",
     "static/media/rastaglion.ttf": "/static/media/rastaglion.39a7193930c8204eb7a8.ttf",
     "static/media/comoelviento.jpg": "/static/media/comoelviento.6e92f7db6db88419f32d.jpg",
+    "static/media/omarm_still1.webp": "/static/media/omarm_still1.44a1bc98ec3c0809345d.webp",
     "static/media/omarmcover.webp": "/static/media/omarmcover.8cd9cd97ac46a4f9cc99.webp",
+    "static/media/omarm_still2.webp": "/static/media/omarm_still2.d2c317261034c41fdd83.webp",
+    "static/media/omarm_still3.webp": "/static/media/omarm_still3.b4d15ad6864b16c5540c.webp",
     "static/media/still2.webp": "/static/media/still2.b89206786fe091820e31.webp",
     "static/media/spotifylogogreensmall.png": "/static/media/spotifylogogreensmall.e64c37c9be5407d5f422.png",
     "static/media/still1.webp": "/static/media/still1.c53ea1eb31dc8ad3a8ff.webp",
     "static/media/applelogo.png": "/static/media/applelogo.1722b91e8389734a9426.png",
     "static/media/still3.webp": "/static/media/still3.ffd33ecbacfe591077aa.webp",
     "index.html": "/index.html",
-    "main.1642a322.css.map": "/static/css/main.1642a322.css.map",
-    "main.a21fd0a1.js.map": "/static/js/main.a21fd0a1.js.map",
+    "main.442a52b4.css.map": "/static/css/main.442a52b4.css.map",
+    "main.193f62aa.js.map": "/static/js/main.193f62aa.js.map",
     "787.596cdfa9.chunk.js.map": "/static/js/787.596cdfa9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1642a322.css",
-    "static/js/main.a21fd0a1.js"
+    "static/css/main.442a52b4.css",
+    "static/js/main.193f62aa.js"
   ]
 }
